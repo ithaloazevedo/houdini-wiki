@@ -10,21 +10,18 @@ Essa wiki tem como objetivo documentar o trabalho do grupo responsável pelo pro
 
 ## Membros do grupo
 
-<div class="members">
-  <div class="member">
-    <p></p>
-    <img src="assets/images/members/">
-  </div>
-  <div class="member">
-    <p></p>
-    <img src="assets/images/members/">
-  </div>
-  <div class="member">
-    <p></p>
-    <img src="assets/images/members/">
-  </div>
-  <div class="member">
-    <p></p>
-    <img src="assets/images/members/">
-  </div>
-</div>
+Alan Marques Sousa <br>
+Daniel Primo <br>
+Guilherme Verissimo Cerveira Braz<br>
+Ítalo Alves Guimarães<br>
+Ithalo Azevedo<br>
+João Pedro Soares Cirqueira<br>
+João Vitor Lopes de Farias<br>
+Kalebe Lopes da Cunha<br>
+Luis Gustavo Avelino de Lima Jacinto<br>
+Maicon Lucas Mares de Souza<br>
+Micaella Lorraine Gouveia de Lima<br>
+Paulo Batista<br>
+Lucas Alexandre Fernandes Martins<br>
+Luis Bruno Fidelis Gomes<br>
+Weiller Fernandes Pereira<br>
