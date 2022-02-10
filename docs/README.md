@@ -8,6 +8,9 @@
 
 Essa wiki tem como objetivo documentar o trabalho do grupo responsável pelo projeto Houdini durante o semestre 2021/2. 
 
+## O Projeto
+O projeto Houdini é uma plataforma desenvolvida em **Ruby on Rails** disponível para todos sem custo algum. O Houdini ajuda a organizações sem fins lucrativos, pessoas e outros movimentos no processo de doações, arrecadação para campanhas e a gestão dos doadores.
+
 ## Membros do grupo
 
 Alan Marques Sousa <br>
